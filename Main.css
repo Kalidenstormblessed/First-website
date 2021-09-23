@@ -1,0 +1,33 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: hsl(0, 0%, 0%);
+    background-image: url(Images/Milky.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 80px;
+    padding: 110px;
+    margin-bottom: -110px;
+}
+p { color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+}
+.topbar {
+    word-spacing: 30px; 
+    background-color:black;
+    padding: 3px;
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    background-size: cover;  
+}
+.color p { color: rgb(250, 192, 0);
+
+}
